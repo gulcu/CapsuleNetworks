@@ -1,3 +1,4 @@
+# Reduced Phoneme Set
 _aa=1
 _ae=2
 _ah=3   
